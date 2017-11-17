@@ -1,0 +1,3 @@
+/home/pi/Desktop/Linux OpenCv/2- RectRecognition - 及时图像/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/Linux OpenCv/2- RectRecognition - 及时图像/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/Linux OpenCv/2- RectRecognition - 及时图像/CMakeFiles/RectRecognition.dir

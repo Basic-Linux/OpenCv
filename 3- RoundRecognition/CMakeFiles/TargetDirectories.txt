@@ -1,0 +1,3 @@
+/home/pi/Desktop/Linux OpenCv/3- RoundRecognition/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/Linux OpenCv/3- RoundRecognition/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/Linux OpenCv/3- RoundRecognition/CMakeFiles/RoundRecognition.dir

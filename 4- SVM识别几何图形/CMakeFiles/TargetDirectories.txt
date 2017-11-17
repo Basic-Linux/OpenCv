@@ -1,0 +1,3 @@
+/home/pi/Desktop/Linux OpenCv/4- SVM识别几何图形/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/Linux OpenCv/4- SVM识别几何图形/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/Linux OpenCv/4- SVM识别几何图形/CMakeFiles/SVMRecognition.dir
